@@ -8,19 +8,18 @@
 ## Classify if The medical Scan (MRI) Contains Tumor or Not
   - > ### MEDICAL SCAN WITHOUT TUMOR (OUTPUT)
 
-  - ![NOT_RUMOR (1)](https://user-images.githubusercontent.com/67736183/124609427-e6368180-de6f-11eb-8468-f8921e8beec6.jpg)
+  - ![BRAIN_TUMOR_DEETECTIO_NOT_TUMOR_OUTPUT](https://user-images.githubusercontent.com/67736183/124630341-9f9e5280-de82-11eb-9886-4576a8b9f72c.png)
   
   - > ### MEDICAL SCAN WITH TUMOR (OUTPUT)
 
-  - ![TUMOR](https://user-images.githubusercontent.com/67736183/124609436-e6cf1800-de6f-11eb-8576-0c00fde27a1a.JPG)
-
+  - ![BRAIN_TUMOR_DEETECTIO_TUMOR_OUTPUT](https://user-images.githubusercontent.com/67736183/124630349-a0cf7f80-de82-11eb-8f71-2d46eeebde3b.png)
 
 **SERVICE (2) PROVIDED BY THE WEBSITE:**
 ---------------------------------------
 
 ## Detection of The Tumor and Calculating It Is Size
   - > ### TUMOR DETECTION (OUTPUT)
-    ![m3 (100)](https://user-images.githubusercontent.com/67736183/124609479-ef275300-de6f-11eb-9ddf-b637b48e6cf1.jpg)
+    ![SIZE_DETECTION](https://user-images.githubusercontent.com/67736183/124630379-a9c05100-de82-11eb-88f8-ff363e1149d5.png)
 
 
 **SERVICE (3) PROVIDED BY THE WEBSITE:**
@@ -28,5 +27,6 @@
 
 ## Detection of The Tumor and Calculating It Is Size
   - > ### 3D SEGEMENTATION OF  THE TUMOR (OUTPUT)
-  - ![3D-MESH-ex-2](https://user-images.githubusercontent.com/67736183/124609529-fe0e0580-de6f-11eb-8d70-21195969923e.PNG)
+  - ![VOLUME](https://user-images.githubusercontent.com/67736183/124630327-9d3bf880-de82-11eb-993a-5e6aea89e284.png)
+
 

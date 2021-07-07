@@ -1,5 +1,5 @@
 # BRAIN_TUMOR
-## The objective from this project is to classify between normal medical scan and the medical scan that contains the tumor and detect brain tumor also give a 3D segmentation of the tumor by the aid of deep learning and deploying the trained model on the website
+## The objective from this project is to classify between normal brain medical scan and the medical scan that contains the tumor and detect brain tumor also give a 3D segmentation of the brain  tumor by the aid of deep learning and deploying the trained model on the website
 
 
 **SERVICE (1) PROVIDED BY THE WEBSITE:**

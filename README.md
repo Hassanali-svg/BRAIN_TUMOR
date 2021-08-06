@@ -25,7 +25,7 @@
 **SERVICE (3) PROVIDED BY THE WEBSITE:**
 ---------------------------------------
 
-## Detection of The Tumor and Calculating It Is Size
+## Detection of The Tumor and Calculating It Is Size and 3D Segementation of It
   - > ### 3D SEGEMENTATION OF  THE TUMOR (OUTPUT)
   - ![VOLUME](https://user-images.githubusercontent.com/67736183/124630327-9d3bf880-de82-11eb-993a-5e6aea89e284.png)
 
